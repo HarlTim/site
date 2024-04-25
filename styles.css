@@ -16,6 +16,7 @@ header {
     justify-content: space-around  
 }  
 
+
 .blocks{
     display: inline-block;
     margin: 0;
@@ -233,51 +234,5 @@ background-color: rgb(202, 218, 241);
     font-family: 'Montserrat';
     font-weight: 150;
   }
-@media (max-width: 1650px) {
-header {
-padding-top: 30px;
-padding-bottom: 50px;
-}
-
-.flex {
-    margin: 30px;
-    padding: 20px; 
-}
-
-.end {
-    margin: 30px;
-    padding: 20px; 
-}
-
-.text {
-    margin-right: -200px;
-    margin-left: 150px;
-}
-
-.container-row {
-    margin-right: -200px;
-    margin-left: 150px;
-}
-
-.step1 {
-    width: 600px;
-}
-
-.button {
-    width: 150px;
-    height: 30px;
-    font-size: 12px;
-}
-
-.image-parlax {
-    width: 5%;
-}
-
-.inner p {
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
-}
-
-.front-side .inner span {
-    font-weight: 100;
-}
+       
+       
